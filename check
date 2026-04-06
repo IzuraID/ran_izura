@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -fsSL https://raw.githubusercontent.com/IzuraID/checkned/main/script.sh | bash
